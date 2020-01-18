@@ -1,3 +1,11 @@
 [submodule "EF-Pluto-DbFirst"]
 	path = EF-Pluto-DbFirst
 	url = https://github.com/omkarubale/EF-Pluto-DbFirst.git
+
+[submodule "EF-CodeFirstDemo"]
+	path = CodeFirstDemo
+	url = https://github.com/omkarubale/EF-CodeFirstDemo.git
+
+[submodule "EF-DatabaseFirstDemo"]
+	path = EF-DatabaseFirstDemo
+	url = https://github.com/omkarubale/EF-DatabaseFirstDemo.git
