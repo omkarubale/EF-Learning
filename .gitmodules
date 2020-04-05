@@ -9,3 +9,6 @@
 [submodule "EF-DatabaseFirstDemo"]
 	path = EF-DatabaseFirstDemo
 	url = https://github.com/omkarubale/EF-DatabaseFirstDemo.git
+[submodule "EF-Vidzy"]
+	path = EF-Vidzy
+	url = D:/Tutorials/Code with Mosh Courses/Entity Framework/EF-Vidzy
