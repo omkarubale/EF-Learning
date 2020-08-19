@@ -17,3 +17,7 @@
 [submodule "EF-VidzyCodeFirst"]
 	path = EF-VidzyCodeFirst
 	url = https://github.com/omkarubale/EF-VidzyCodeFirst.git
+
+[submodule "EF-VidzyQuerying"]
+	path = EF-VidzyQuerying
+	url = https://github.com/omkarubale/EF-VidzyQuerying.git
