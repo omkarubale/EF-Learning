@@ -21,3 +21,7 @@
 [submodule "EF-VidzyQuerying"]
 	path = EF-VidzyQuerying
 	url = https://github.com/omkarubale/EF-VidzyQuerying.git
+
+[submodule "EF-VidzyUpdatingData"]
+	path = EF-VidzyUpdatingData
+	url = https://github.com/omkarubale/EF-VidzyUpdatingData.git
